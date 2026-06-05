@@ -14,4 +14,3 @@ and lease agreements to rent collection and maintenance requests.
 - 📊 **Reporting & insights** — occupancy, revenue, and performance at a glance
 
 🌐 [Website](https://nawathen.com) · ✉️ contact@nawathen.com
-d
